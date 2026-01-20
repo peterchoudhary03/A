@@ -1,2 +1,17 @@
-# A
-hyyyyyyyyyyyyyyyyyy -peterrrrrr
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>My Site</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>Welcome to my site</h1>
+  <p><a href="fk.html">Go to FK Page</a></p>
+  <script src="script.js"></script>
+</body>
+</html>
+
+
+<link rel="stylesheet" href="style.css">
+<script src="script.js"></script>
